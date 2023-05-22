@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DMD_Data_Makers" id="50A1AA6B-1DA6-15F5-029C-55B78FE727A8" version="3.5">
+<createdBy>breno</createdBy>
+<createdTime>2022-05-25 17:31:29 UTC</createdTime>
+<ownerDesignName>DataModel2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>50A1AA6B-1DA6-15F5-029C-55B78FE727A8</designId>
+</OSDM_Design>
